@@ -1,0 +1,13 @@
+{
+  "id": "./",
+  "name": "PRIME ERA",
+  "short_name": "PRIME ERA",
+  "description": "Персональная система физического и социального развития",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101214",
+  "theme_color": "#101214"
+}
