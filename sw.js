@@ -1,5 +1,5 @@
 
-const CACHE_NAME = "prime-era-v2-cache";
+const CACHE_NAME = "prime-era-v2-cache-2";
 
 const CORE_FILES = [
   "./",
